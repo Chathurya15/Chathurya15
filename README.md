@@ -7,12 +7,13 @@
 
 ## 🌟 About Me 
 
--💻 Passionate Developer
--🔥 Creative UI/UX Designer
--🌱 **Currently Learning:** **Mobile App Development |Web Development |Database Management** 
--💡 Currently working on **Web & Mobile Development Projects**
+- 💻 Passionate Developer  
+- 🔥 Creative UI/UX Designer 
+- 🌱 **Currently Learning:** **Mobile App Development |Web Development |Database Management** 
+- 💡 Currently working on **Web & Mobile Development Projects**
 
- 
+
+🔹 **Specialize in:** 
 ### Frontend Development
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
@@ -55,8 +56,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="50"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="50"></td>
@@ -65,21 +65,17 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="50"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="50"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mui&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="50"></td>
+   </td>
     <td align="center"><img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50"></td>
