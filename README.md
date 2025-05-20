@@ -7,11 +7,11 @@
 
 
 ## 🌟 About Me    
- 
-- 💻 Passionate Developer
-- 🔥 Creative UI/UX Designer
-- 🌱 I’m currently learning **MERN** 
+💻 Passionate Developer | 🔥 Creative UI/UX Designer
+
+- 🌱 I’m currently learning **Mobile App Development |Web Development |Database Management** 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT (3rd Year)**
+
 - **Programming Languages:** C, C++, Python, Java 
 - **Frontend:** React.js  
 - **Backend:** Node.js  
