@@ -4,11 +4,15 @@
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h3 align="center">🧑‍🎓 Undergraduate IT Student </h3>
+<h4 align="center">Empowering Innovation Through Technology</h4>
 
-## 🌟 About Me    
-💻 Passionate Developer | 🔥 Creative UI/UX Designer
+## 🌟 About Me 
 
-- 🌱 **Currently Learning:** **Mobile App Development |Web Development |Database Management** 
+💻 Passionate Developer
+🔥 Creative UI/UX Designer
+🌱 **Currently Learning:** **Mobile App Development |Web Development |Database Management** 
+💡 Currently working on **Web & Mobile Development Projects**
+
 - **Programming Languages:** C, C++, Python, Java 
 - **Frontend:** React.js  
 - **Backend:** Node.js  
