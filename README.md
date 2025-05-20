@@ -75,7 +75,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio,&theme=dark" width="50"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="50"></td>
 
    </td>
     <td align="center"><img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" width="50"></td>
