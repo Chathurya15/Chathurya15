@@ -3,13 +3,13 @@
 <h3 align="center">Passionate IT Student | Empowering Innovation Through Technology</h3>
 
 
-## 🌟 About Me  
-💻 Passionate Developer | 🔥 Creative UI/UX Designer   
-
-🔹 **I specialize in:**  
-- 🌱 I’m currently learning **MERN**
+## 🌟 About Me    
+ 
+- 💻 Passionate Developer
+- 🔥 Creative UI/UX Designer
+- 🌱 I’m currently learning **MERN** 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT (3rd Year)**
-- - **Programming Languages:** C, C++, Python, Java 
+- **Programming Languages:** C, C++, Python, Java 
 - **Frontend:** React.js  
 - **Backend:** Node.js  
 - **Database:** MySQL, MongoDB  
