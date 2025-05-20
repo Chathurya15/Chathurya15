@@ -56,7 +56,6 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="50"></td>
