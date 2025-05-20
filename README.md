@@ -47,7 +47,6 @@
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 ---
-<h3 align="center">A passionate frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -90,12 +89,11 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chathurya15&theme=tokyonight&bg_color=ffffff00" alt="GitHub Summary"></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathurya15&layout=donut&theme=tokyonight&hide_border=true&hide=background" alt="Top Languages"></td>
   </tr>
 </table>
 
 
 ---
 
-🔥 **Let’s build something amazing together!** 🚀
+🚀 **Let’s explore something amazing together!** 
 
