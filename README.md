@@ -100,10 +100,7 @@
   <a href="https://www.linkedin.com/in/chathurya-dissanayake-abba25341/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your.email@example.com">
-  <a href="c2dissa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+    [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:c2dissa@gmail.com)
 </p>
 
 ---
