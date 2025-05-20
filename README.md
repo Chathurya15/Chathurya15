@@ -1,18 +1,19 @@
 # 🚀 Welcome to My Profile! 🚀  
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-
+<h3 align="center">Passionate IT Student | Empowering Innovation Through Technology</h3>
 <h1 align="center">Hi 👋, I'm Chathurya Dissanayake</h1>
+
 ## 🌟 About Me  
-💻 Passionate Developer | 🔥 Tech Enthusiast | 🚀 Open Source Contributor  
+💻 Passionate Developer | 🔥 Creative UI/UX Designer   
 
 🔹 **I specialize in:**  
-- **Programming Languages:** C, C++, Python, Java  
+- 🌱 I’m currently learning **MERN**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT (3rd Year)**
+- - **Programming Languages:** C, C++, Python, Java 
 - **Frontend:** React.js  
-- **Backend:** Node.js, Spring Boot  
+- **Backend:** Node.js  
 - **Database:** MySQL, MongoDB  
-
-🔹 I love building full-stack applications and solving complex problems with elegant code!  
-
+  
 ---
 <h3 align="center">A passionate frontend developer</h3>
 
