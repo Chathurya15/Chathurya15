@@ -78,7 +78,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="50"></td>
 
    </td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" width="50"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c++&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50"></td>
   </tr>
