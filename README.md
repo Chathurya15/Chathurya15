@@ -3,15 +3,13 @@
 </h1>
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h3 align="center">Passionate IT Student | Empowering Innovation Through Technology</h3>
+<h3 align="center">🧑‍🎓 Undergraduate IT Student | Empowering Innovation Through Technology</h3>
 
 
 ## 🌟 About Me    
 💻 Passionate Developer | 🔥 Creative UI/UX Designer
 
-- 🌱 I’m currently learning **Mobile App Development |Web Development |Database Management** 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT (3rd Year)**
-
+- 🌱 **Currently Learning:** **Mobile App Development |Web Development |Database Management** 
 - **Programming Languages:** C, C++, Python, Java 
 - **Frontend:** React.js  
 - **Backend:** Node.js  
