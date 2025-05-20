@@ -36,8 +36,6 @@
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark)](https://developer.android.com/studio)
-
 
 
 ### Programming Languages
@@ -77,6 +75,8 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio,&theme=dark" width="50"></td>
+
    </td>
     <td align="center"><img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" width="50"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"></td>
